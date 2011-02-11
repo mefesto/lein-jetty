@@ -44,10 +44,10 @@ For better or worse jsp support is included. :-\
 ## TODO
 
 Expand this to support other jndi resources such as:
- * env-entry
- * resource-ref
- * resource-env-ref
- * others?
+  * env-entry
+  * resource-ref
+  * resource-env-ref
+  * others?
 
 ## License
 
